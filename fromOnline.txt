@@ -1,3 +1,5 @@
 Hi !
 This file was updated online!
 We need to take care of this.
+I made changes from terminal.
+
