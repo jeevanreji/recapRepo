@@ -2,3 +2,4 @@ Hello this is Jeevan!
 I am recaping all i learnt about Git.
 I am making the change to the file after first commit.
 
+some new info
